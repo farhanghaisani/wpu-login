@@ -1,6 +1,6 @@
 Halaman admin
 
-email		 = doddy@gmail.com
+email    = doddy@gmail.com
 password = doddy
 
 Halaman user
