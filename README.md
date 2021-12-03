@@ -3,7 +3,7 @@
 Halaman Admin
 
 email			= doddy@gmail.com
-password	= doddy
+password	= doddy\
 
 Halaman User
 
