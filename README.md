@@ -1,9 +1,11 @@
-Halaman Admin
+#WPU-LOGIN
 
-email			= doddy@gmail.com
-password	= doddy
+Halaman Admin\
 
-Halaman User
+email			= doddy@gmail.com\
+password	= doddy\
 
-email			= ghaisanifarhan@gmail.com
-password	= dasarredmi
+Halaman User\
+
+email			= ghaisanifarhan@gmail.com\
+password	= dasarredmi\
