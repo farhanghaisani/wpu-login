@@ -2,11 +2,11 @@
 
 Halaman Admin
 
-email			= doddy@gmail.com
-password	= doddy\
+email			= doddy@gmail.com\
+password	= doddy
 
 Halaman User
 
-email			= ghaisanifarhan@gmail.com
+email			= ghaisanifarhan@gmail.com\
 password	= dasarredmi
 
